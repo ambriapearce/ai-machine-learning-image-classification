@@ -25,8 +25,8 @@ Each section includes Jupyter notebooks and data files needed to reproduce the a
 
 ## Task 1: Classification
 
-**Notebook:** machine_learning_cw.ipynb
-**Data:** imageset/
+**Notebook:** machine_learning_cw.ipynb  
+**Data:** imageset/  
 **Outcome:** Model with data augmentation performed better with 76% accuracy compared to 70% accuracy without data augmentation.
 
 ## Task 2: Reinforcement Learning (Grid World)
